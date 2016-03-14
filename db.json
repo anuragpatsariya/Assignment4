@@ -1,0 +1,39 @@
+{
+  "actors": [
+    {
+      "id": 1,
+      "name": "Bryan Cranston",
+      "starred": true
+    },
+    {
+      "id": 2,
+      "name": "Aaron Paul",
+      "starred": false
+    },
+    {
+      "id": 3,
+      "name": "Bob Odenkirk",
+      "starred": true
+    },
+    {
+      "id": 4,
+      "name": "Dean Norris",
+      "starred": true
+    },
+    {
+      "id": 5,
+      "name": "heh he",
+      "starred": false
+    },
+    {
+      "id": 6,
+      "name": "koi bhi",
+      "starred": false
+    },
+    {
+      "id": 7,
+      "name": "New Actor",
+      "starred": true
+    }
+  ]
+}
