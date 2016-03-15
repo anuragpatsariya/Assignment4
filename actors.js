@@ -1,8 +1,7 @@
 /*jshint browser:true*/
 /*globals $*/
-
-$(document).ready(function() {
-    "use strict";
+"use strict";
+$(document).ready(function() {    
     $.ajax({
         url: "http://localhost:3000/actors",
         type: "GET",
