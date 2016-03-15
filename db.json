@@ -3,17 +3,17 @@
     {
       "id": 1,
       "name": "Bryan Cranston",
-      "starred": true
+      "starred": false
     },
     {
       "id": 2,
       "name": "Aaron Paul",
-      "starred": false
+      "starred": true
     },
     {
       "id": 3,
       "name": "Bob Odenkirk",
-      "starred": true
+      "starred": false
     },
     {
       "id": 4,
@@ -22,17 +22,7 @@
     },
     {
       "id": 5,
-      "name": "heh he",
-      "starred": false
-    },
-    {
-      "id": 6,
-      "name": "koi bhi",
-      "starred": false
-    },
-    {
-      "id": 7,
-      "name": "New Actor",
+      "name": "Another Actor",
       "starred": true
     }
   ]
