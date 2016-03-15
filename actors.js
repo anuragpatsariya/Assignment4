@@ -1,5 +1,6 @@
 /*jshint browser:true*/
 /*globals $*/
+/* jshint unused: false */
 "use strict";
 $(document).ready(function() {    
     $.ajax({
